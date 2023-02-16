@@ -40,6 +40,7 @@ All that you encounter in Traforrm
 * Resource meta-arguments,
 * Security and compliance,
 * Local-exec Provisioner,
+* remote-exec Provisioner
 * User-defined functions,
 * Resource dependencies, 
 * Conditional expression,
