@@ -1,6 +1,8 @@
 # All-that-you-encounter-in-Terraform
 All that you encounter in Traforrm
 
+**All of the items listed are concepts related to Terraform, which is a tool for infrastructure as code. Some of the items are more specific or detailed than others, but they are all concepts related to using Terraform to manage infrastructure.**
+
 * Terraform and infrastructure security practices, including secrets management, network security, and identity and access management.
 * Advanced Terraform topics, such as managing Terraform state across teams, advanced modules, and Terraform remote execution.
 * Terraform and cloud cost management: optimizing infrastructure cost through automation, monitoring and reporting.
